@@ -1,4 +1,4 @@
-//  Binary Search Program
+//  Q2 Solution
 #include <iostream>
 #include <cstdlib>
 using namespace std;
